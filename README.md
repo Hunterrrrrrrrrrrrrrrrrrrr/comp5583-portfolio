@@ -1,4 +1,10 @@
-# V2, Round 2
+﻿# Yuhang portfolio
 
-Independently generated from frozen V0. RAG selected context: evaluation/round2/selected_context.md. Inline claim-to-source links, reduced duplication and responsive layout.
-Round 1 preserved at records/round1_archive. Final local checks and new Judge outputs live in evaluation/round2.
+Three independently runnable static portfolio versions for COMP5583:
+- [V0: Baseline](website/V0/)
+- [V1: Project presentation](website/V1/)
+- [V2: Project evidence](website/V2/)
+
+Open each index.html directly or serve this repository with a static HTTP server. No build or external dependencies are required.
+
+V0 is frozen. Reports, private source documents, student identifiers and evaluation records are intentionally maintained outside this public repository.

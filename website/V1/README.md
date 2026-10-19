@@ -1,7 +1,4 @@
-# V1 — Yuhang portfolio
+# V1, Round 2
 
-Method: ICL: authored examples; project presentation. Independently copied from frozen V0; not based on the other variant.
-
-Open index.html directly or serve this folder with any static HTTP server. No install/build/API/CDN required. All files are local to this directory. Public deployment remains pending. The source-note page in V2 is a local summary, not access to private documents.
-
-Keep the four required sections. Evidence and experiment logs are outside this folder in evaluation/ and records/.
+Independently generated from frozen V0. ICL demonstrations: records/round2_plan.md. Labelled contributions, always-visible limits and responsive layout.
+Round 1 preserved at records/round1_archive. Final local checks and new Judge outputs live in evaluation/round2.
